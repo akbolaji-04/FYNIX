@@ -65,7 +65,7 @@ const PRODUCTS = [
     category: "Seating",
     material: "Wood",
     image:
-      "https://images.unsplash.com/photo-1503602642458-23211144584b?auto=format&fit=crop&q=80&w=600",
+      "https://images.unsplash.com/photo-1601366533287-5ee4c763ae4e?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzl8fGZ1cm5pdHVyZXxlbnwwfHwwfHx8MA%3D%3D",
     tag: "Minimal",
   },
 ];
